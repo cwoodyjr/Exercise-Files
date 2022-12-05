@@ -6,3 +6,7 @@ fruits = [
     'nectarines',
     'pears',
 ]
+
+print('Our Fruit Selection')
+for fruit in fruits:
+    print(fruit)
