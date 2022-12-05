@@ -8,5 +8,5 @@ fruits = [
 ]
 
 print('Our Fruit Selection')
-for fruit in fruits:
-    print(fruit)
+for fruit in fruits:     #this is similiar to a for each loop in java
+    print(fruit)        #again indentation is key
