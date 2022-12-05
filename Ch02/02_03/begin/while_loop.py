@@ -1,4 +1,4 @@
-print('Learnng python while loops')
+print('Learning python while loops')
 
 i = 10
 while i <=100:
