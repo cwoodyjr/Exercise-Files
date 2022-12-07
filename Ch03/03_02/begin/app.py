@@ -1,5 +1,7 @@
+"""A dummy docstring."""
+
 import testmodule
 
-testmodule.mult(3,2)
+testmodule.mult(3, 2)
 
-testmodule.add(10,2)
+testmodule.add(10, 2)
