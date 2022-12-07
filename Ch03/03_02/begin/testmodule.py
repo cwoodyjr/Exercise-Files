@@ -14,7 +14,8 @@ def add(x, y):
 def subs(x, y):
     """A function to subtract."""
     print(f'{x} - {y} = {x - y}')
-    
-def subs(x, y):
+
+
+def divi(x, y):
     """A function to divide."""
     print(f'{x} / {y} = {x / y}')
