@@ -9,3 +9,8 @@ def mult(x, y):
 def add(x, y):
     """A function to add."""
     print(f'{x} + {y} = {x + y}')
+
+
+def subs(x, y):
+    """A function to subtract."""
+    print(f'{x} - {y} = {x - y}')
