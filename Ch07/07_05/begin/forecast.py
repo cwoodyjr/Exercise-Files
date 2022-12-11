@@ -1,4 +1,4 @@
-def check_temp(temp) -> None:
+def check_temp(temp):
     if temp < 15:
         print('Bring a jacket')
     elif temp > 25 and temp <= 35:
