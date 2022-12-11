@@ -6,3 +6,5 @@ flips = [
     'tails',
 ]
 
+print(flips.count('tails'))
+print(flips.pop())
